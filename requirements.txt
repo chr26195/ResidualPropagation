@@ -1,0 +1,6 @@
+torch=2.2.1+cu118
+torch-cluster=1.6.3+pt22cu118
+torch-geometric=2.5.2
+torch-scatter=2.1.2+pt22cu118
+torch-sparse=0.6.18+pt22cu118
+torch-spline-conv=1.2.2+pt22cu118
